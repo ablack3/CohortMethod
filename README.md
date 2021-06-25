@@ -108,3 +108,4 @@ CohortMethod is actively being used in several studies and is ready for use.
 
 # Acknowledgements
 - This project is supported in part through the National Science Foundation grant IIS 1251151.
+
